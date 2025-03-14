@@ -2,7 +2,7 @@
 
 I'm a software developer with:  
 - 🧠 Strong business understanding with consultancy and sales expertise  
-- 💻 Proficiency in Python and SQL  
+- 💻 Proficiency in Java and SQL  
 - 🌐 Basic skills in HTML, CSS, JavaScript, and React.js  
 - 🚀 Eager to collaborate and build impactful solutions  
 
